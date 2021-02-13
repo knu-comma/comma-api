@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "comma-api",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,16 @@
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "force": "^0.0.3",
+    "forever": "^3.0.4",
     "global": "^4.4.0",
     "http-errors": "~1.6.3",
+    "json2xls": "^0.1.2",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.7"
+    "mysql2": "^2.2.5",
+    "node-json-xlsx": "^0.2.2",
+    "nodemon": "^2.0.2",
+    "pm2": "^4.5.4",
+    "sequelize": "^6.5.0",
+    "sequelize-cli": "^6.2.0"
   }
 }
